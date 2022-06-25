@@ -316,3 +316,5 @@ var auditTime = function () {
 }
 
 auditTime()
+
+setInterval(auditTime, 180000);
