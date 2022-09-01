@@ -35,7 +35,7 @@
   ## Usage/Installation
   
 
-  No installation needed for this app, you can use it by going to the webpage by clicking on the link posted above
+  No installation needed for this app, you can use it by going to the webpage by clicking on the link posted above.
 
   ## Contributions
   This app was made by Emili0
